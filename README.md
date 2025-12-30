@@ -12,8 +12,8 @@ Atualmente em transição para Análise de Dados, com certificações pelo Googl
     <a href="https://www.linkedin.com/in/bruna-gesteira-945972353">
         <img 
             alt="Perfil no LinkedIn"
-            title="Veja meu perfil profissional no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=C79600"
+            title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=C79600""
         />
     </a> 
     <a href="https://github.com/brunagesteira?tab=repositories&sort=stargazers">
