@@ -8,14 +8,12 @@ Especialista em automação de processos, integração de sistemas e IA, certifi
 Experiência em projetos com a Huntz, Renata Tedesco e Claudia Rigo.
 Atualmente em transição para Análise de Dados, com certificações pelo Google e freeCodeCamp.
 
-🔗 LinkedIn: [linkedin.com/in/bruna-gesteira-945972353] 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/bruna-gesteira-945972353">
         <img 
             alt="Perfil no LinkedIn"
             title="Veja meu perfil profissional no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/brunagesteira?tab=repositories&sort=stargazers">
