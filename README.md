@@ -13,7 +13,7 @@ Atualmente em transição para Análise de Dados, com certificações pelo Googl
         <img 
             alt="Perfil no LinkedIn"
             title="LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=C79600""
+            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
     <a href="https://github.com/brunagesteira?tab=repositories&sort=stargazers">
