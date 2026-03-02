@@ -5,8 +5,7 @@
 Bruna Gesteira | João Pessoa – PB
 Especialista em automação de processos, integração de sistemas e IA, certificada por Thales Laray, com forte domínio em APIs.
 
-Experiência em projetos com a Huntz, Renata Tedesco e Claudia Rigo.
-Atualmente em transição para Análise de Dados, com certificações pelo Google e freeCodeCamp.
+Atualmente em transição para Análise de Dados, com certificações pela Google e freeCodeCamp.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruna-gesteira-945972353">
