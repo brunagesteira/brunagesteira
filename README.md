@@ -1,80 +1,67 @@
-# 👩🏻‍💻 Bruna Gesteira
+<div align="center">
 
-**`Sobre`**
+# Bruna Gesteira
 
-Bruna Gesteira | João Pessoa – PB
-Especialista em automação de processos, integração de sistemas e IA, certificada por Thales Laray, com forte domínio em APIs.
+**Desenvolvedora de Software**
 
-Atualmente em transição para Análise de Dados, com certificações pela Google e freeCodeCamp.
+Backend · Integrações de sistemas · Automação · Inteligência Artificial
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/bruna-gesteira-945972353">
-        <img 
-            alt="Perfil no LinkedIn"
-            title="LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/brunagesteira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/brunagesteira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/brunagesteira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/brunagesteira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+*Conectar sistemas. Simplificar processos. Construir soluções.*
 
+[LinkedIn](https://www.linkedin.com/in/bruna-gesteira-945972353/) · [Portfólio](https://brunagesteira.github.io/portfolio-bruna-gesteira/) · [E-mail](mailto:brunagesteira11@gmail.com)
+
+</div>
 
 ---
 
-### 🤖 Habilidades Técnicas
+## Sobre mim
 
-<p align="left">
-    <img 
-        align="left" 
-        alt="SQL"
-        title="SQL — Intermediário" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Python" 
-        title="Python — Básico"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JSON" 
-        title="JSON — Avançado"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="N8N" 
-        title="N8N — Avançado"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n.io/n8n.io-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Redis" 
-        title="Redis — Avançado"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
-    />
-</p>
+Sou desenvolvedora de software com foco em integração de sistemas, automação de processos e aplicações de inteligência artificial. Meu interesse está em transformar necessidades operacionais em software: conectar ferramentas por APIs, organizar dados e reduzir tarefas manuais.
+
+Nos meus projetos públicos, desenvolvo backend com **Python e FastAPI**, integro serviços como **Google Calendar e Google Sheets** e construo interfaces com **JavaScript, TypeScript e React**. Aqui compartilho código que aproxima o desenvolvimento de software dos processos do dia a dia.
+
+Meu foco de evolução é a **engenharia de IA**, especialmente agentes e sua integração com APIs e fluxos de automação.
+
+## Tecnologias
+
+- **Linguagens:** Python · JavaScript · TypeScript · SQL
+- **Backend:** FastAPI · Pydantic · APIs REST · Uvicorn
+- **Frontend:** React · HTML · CSS · Tailwind CSS · Vite
+- **Bancos de dados:** SQLite
+- **Infraestrutura e ferramentas:** Git · GitHub · Docker · Docker Compose · Railway · GitHub Pages
+- **Integrações e automação:** Google Calendar API · Google Sheets API · OAuth 2.0 · SMTP · Selenium · pandas · n8n
+- **IA — foco de desenvolvimento:** agentes de IA e integração com sistemas e processos
+
+## Projetos em destaque
+
+### 01 · Sistema de ponto — backend e frontend
+
+API em **Python, FastAPI e SQLite** para registrar sessões de trabalho, pausas e encerramentos, calcular tempos e exportar relatórios em CSV. As interfaces em **HTML, CSS e JavaScript** consomem a API e oferecem telas de acesso, acompanhamento da sessão e supervisão.
+
+**Em foco:** desenvolvimento backend, persistência de dados e integração entre interface e API.
+
+[Código do backend](https://github.com/brunagesteira/locker-externo) · [Código do frontend](https://github.com/brunagesteira/locker-front)
+
+### 02 · Automação de prospecção e agendamento
+
+Repositório com módulos em **Python** para coleta de dados com Selenium, exportação para CSV e Google Sheets, envio de e-mails por SMTP e gestão de agendamentos no Google Calendar. O código inclui consulta de horários, criação, remarcação e cancelamento de eventos.
+
+**Em foco:** automação de tarefas, tratamento de dados e integração com serviços externos. A integração com IA generativa está prevista no roadmap do projeto.
+
+[Explorar o projeto](https://github.com/brunagesteira/prospeccao-ai-agent)
+
+### 03 · Portfólio profissional
+
+Aplicação em **React e TypeScript**, com Vite, Tailwind CSS e Framer Motion. Organiza apresentação, serviços e cases em componentes, com conteúdo separado em arquivos de dados e configuração de publicação no GitHub Pages.
+
+**Em foco:** organização de frontend, componentização e apresentação de projetos.
+
+[Código do portfólio](https://github.com/brunagesteira/portfolio-bruna-gesteira) · [Visitar o site](https://brunagesteira.github.io/portfolio-bruna-gesteira/)
+
+---
+
+## Vamos conversar
+
+Tenho interesse em oportunidades de **desenvolvimento de software, backend, integrações e engenharia de IA**.
+
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/bruna-gesteira-945972353/) ou escreva para [brunagesteira11@gmail.com](mailto:brunagesteira11@gmail.com).
